@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Julee&family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Gulzar&family=Julee&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -24,7 +25,7 @@
     justify-content: center;
 }
 body{
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Poppins', cursive;
     font-family: 'Julee', cursive;
     font-family: 'Source Sans Pro', sans-serif;
     background-color: darkgrey;
@@ -116,7 +117,7 @@ max-width: 100%;
     text-align: left;
     padding: 0.5rem;
     margin-top: 20px;
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Poppins', cursive;
     
 }
 .progress-bar{
@@ -139,7 +140,7 @@ max-width: 100%;
     font-weight: 700;
     padding: 0.5rem;
     letter-spacing: 1px;
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Poppins', cursive;
     color: rgb(11, 45, 56);
     
 }
