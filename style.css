@@ -109,6 +109,7 @@ max-width: 100%;
     text-transform: none;
     padding:  0.5rem;
     color: white;
+    text-transform: uppercase ;
 }
 .skill-name{
     font-size:10.4px;
